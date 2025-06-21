@@ -1,6 +1,6 @@
 Nome: Lucas
 Idade: 34
 Curso: Ciência da Computação
-Inicio: 2020
+Status: Concluído
 Matricula 789123
 Sexo: Masculino
