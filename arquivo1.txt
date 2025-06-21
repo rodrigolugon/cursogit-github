@@ -1,0 +1,5 @@
+Nome: Rodrigo
+Idade: 26
+Curso: Ciência da Computação
+Inicio: 2020
+Matricula 123456

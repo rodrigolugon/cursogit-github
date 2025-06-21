@@ -1,0 +1,5 @@
+Nome: Lucas
+Idade: 34
+Curso: Ciência da Computação
+Inicio: 2020
+Matricula 789123
