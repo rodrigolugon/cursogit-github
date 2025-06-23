@@ -3,3 +3,4 @@ Idade: 26
 Curso: Ciência da Computação
 Inicio: 2020
 Matricula 123456
+Pratica dia 2 no curso de git e git hub.
