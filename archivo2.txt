@@ -1,4 +1,4 @@
-Nome: Joane
+Nome: Joane Gama
 Idade: 20
 Curso: Ciência da Computação
 Inicio: 2020
